@@ -75,8 +75,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    About {{ $data['fullname'] }}
                 </div>
+                <p>Email me at {{ $data['email'] }}</p>
 
                 <div class="links">
                     <a href="/about">About</a>
