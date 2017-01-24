@@ -130,14 +130,16 @@
   </div><!-- /.container-fluid -->
 </nav>
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-8">
+<div class="container">
 <div class="jumbotron">
-  <h1>Hello, world!</h1>
+  <h1><strong>Welcome to my blog</strong></h1>
   <p>...</p>
-  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Latest Post</a></p>
 </div>
+<div class="row">
+
+<div class="col-md-8">
+
 
 <div class="panel panel-default">
   <div class="panel-body">
