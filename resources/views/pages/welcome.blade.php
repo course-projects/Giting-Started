@@ -9,10 +9,7 @@
 
         <!-- Fonts -->
         <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 
 
@@ -141,15 +138,32 @@
 <div class="col-md-8">
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+
+  <div class="post">
     <h2>Blog Post</h2>
     <button type="button" class="btn btn-primary">Primary</button>
   </div>
-</div>
+
+  <div class="post">
+    <h2>Blog Post</h2>
+    <button type="button" class="btn btn-primary">Primary</button>
+  </div>
+
+  <div class="post">
+    <h2>Blog Post</h2>
+    <button type="button" class="btn btn-primary">Primary</button>
+  </div>
+
+  <div class="post">
+    <h2>Blog Post</h2>
+    <button type="button" class="btn btn-primary">Primary</button>
+  </div>
+
 
 </div>
-<div class="col-md-4"></div>
+<div class="col-md-4">
+    <div class="container"><script src="//fast.wistia.com/embed/medias/j9bb6oa92f.jsonp" async></script><script src="//fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed wistia_async_j9bb6oa92f" style="height:169px;width:300px">&nbsp;</div></div>
+</div>
 </div>
 </div>
        
