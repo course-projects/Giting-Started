@@ -96,7 +96,9 @@
 
 </div>
 <div class="col-md-4">
-    <div class="container"></div>
+    <div class="container">
+        <h3>Sidebar</h3>
+    </div>
     </div>
 </div>
 </div>
