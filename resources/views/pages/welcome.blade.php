@@ -1,4 +1,6 @@
 @extends('main')
+
+@section('title', '| Homepage')
     
 @section('content')
 
@@ -47,3 +49,4 @@
     </div>
     </div>
 @endsection
+
