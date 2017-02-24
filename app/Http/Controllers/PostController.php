@@ -42,7 +42,7 @@ class PostController extends Controller
         // validate the data
         $this->validate($request, array(
             'title' => 'required|max:255'
-            'body' => 'required'
+           /* 'body' => 'required'*/
             ));
 
         // store in the batabase
